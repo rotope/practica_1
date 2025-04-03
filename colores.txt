@@ -1,9 +1,9 @@
-rojo123
+rojo456
 azul
 verde
 amarillo
 naranja
 Morado
 Rosa
-Cyan123
+Cyan456
 
