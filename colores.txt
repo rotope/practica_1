@@ -1,4 +1,5 @@
 rojo1234
+rojo4567
 azul
 verde
 amarillo
@@ -6,4 +7,5 @@ naranja
 Morado
 Rosa
 Cyan1234
+Cyan4567
 
